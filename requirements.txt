@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+twilio
+python-dateutil
+dateparser
+caldav
+pytz
+redis
