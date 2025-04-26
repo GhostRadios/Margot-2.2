@@ -1,0 +1,433 @@
+{
+    "clinic_info": {
+      "name": "Clínica Missel",
+      "specialty": "Cirurgia Plástica",
+      "doctor_name": "Dr. Juarez Missel",
+      "doctor_crm": "RS 23756 / SP 106579",
+      "address": {
+        "street": "Rua Coronel Gabriel Bastos, 371",
+        "neighborhood": "Vila Vergueiro",
+        "city": "Passo Fundo",
+        "state": "RS",
+        "zip_code": "99010200",
+        "reference_point": "Atrás da sede Vergueiro do Clube Comercial"
+      },
+      "phone_number": "54 996837475, 54 33272748",
+      "whatsapp_number": "whatsapp:+5554991181305",
+      "website": "https://www.juarezmissel.com.br",
+      "opening_hours": {
+        "monday": "8h às 12h e 14h às 18h",
+        "tuesday": "8h às 12h e 14h às 18h",
+        "wednesday": "8h às 12h e 14h às 18h",
+        "thursday": "8h às 12h e 14h às 18h",
+        "friday": "8h às 12h e 14h às 18h",
+        "saturday": "Fechado",
+        "sunday": "Fechado",
+        "notes": "Horário de funcionamento geral da clínica. As consultas com o Dr. Juarez Missel são agendadas preferencialmente nas segundas e terças à tarde, mas outros horários podem estar disponíveis mediante consulta e liberação pela equipe de relacionamento."
+      },
+      "surgery_location": "Hospital de Clínicas de Passo Fundo"
+    },
+    "doctor_info": {
+      "full_name": "Dr. Juarez Missel",
+      "specialization": "Cirurgia Plástica",
+      "sub_specialties": [
+        "Cirurgia Geral",
+        "Reconstrução Mamária",
+        "Tratamento de Pacientes Queimados",
+        "Fissuras Labiopalatais",
+        "Cirurgia Craniofacial"
+      ],
+      "bio_summary": "Dr. Juarez Missel é membro Titular da SBCP (Sociedade Brasileira de Cirurgia Plástica) e membro da ISAPS (International Society of Aesthetic Plastic Surgery). O paciente é o centro de todo o processo, possui alterações e desejos específicos. O Dr. Juarez utiliza o seu conhecimento, experiência e habilidade, potencializados pela tecnologia, equipe e estrutura para proporcionar o melhor resultado possível. O resultado é um compromisso indiscutível, acompanha pessoalmente cada paciente durante todas as fases dos tratamentos. Todos os tratamentos são personalizados, cada paciente tem um tratamento único. A humanização e a experiência do paciente são um compromisso do Dr. Missel e de sua equipe, é a cirurgia plástica elevada ao nível de excelência máxima.",
+      "philosophy": "O paciente é o centro de todo o processo, possui alterações e desejos específicos. O Dr. Juarez utiliza o seu conhecimento, experiência e habilidade, potencializados pela tecnologia, equipe e estrutura para proporcionar o melhor resultado possível.",
+      "experience_summary": {
+        "years": "mais de 25 anos",
+        "operated_patients_surgeries": "Mais de 3500 pacientes operados, mais de 5000 cirurgias.",
+        "scientific_presentations": 52,
+        "scientific_articles": 6,
+        "courses_taught": 16,
+        "congress_participations": 54,
+        "events_organized": 12,
+        "training_courses_taken": 112
+      },
+      "graduation": {
+        "university": "Universidade Federal de Santa Maria",
+        "year": 1998
+      },
+      "post_graduation": [
+        {
+          "specialty": "Cirurgia Geral",
+          "institution": "Grupo Hospitalar Conceição, na cidade de Porto Alegre",
+          "completion_year": 2000,
+          "rqe": "14581"
+        },
+        {
+          "specialty": "Cirurgia Plástica",
+          "institution": "Universidade Santa Cecília, Serviço de Cirurgia Plástica Dr. Ewaldo Bolivar de Souza Pinto, na cidade de Santos",
+          "completion_year": 2004,
+          "rqe": "17378",
+          "notes": "Obteve o quarto lugar nacional no exame nacional no ano de 2004. Realizou a prova para ascensão a membro titular no ano de 2012."
+        }
+      ],
+      "fellowships": [
+        { "area": "Reconstrução Mamária", "institution": "Instituto Brasileiro de Controle do Câncer, IBCC de São Paulo" },
+        { "area": "Tratamento de Pacientes Queimados", "institution": "Fundação Hospitalar do Estado de Minas Gerais, FHEMIG" },
+        { "area": "Fissuras Labiopalatais", "institution": "Centrinho – USP de Bauru, São Paulo" },
+        { "area": "Cirurgia Craniofacial", "institution": "Núcleo de Plástica Avançada da Real Beneficência Portuguesa de São Paulo" }
+      ],
+       "book_chapters": [
+        {
+          "book_title": "Lipomioescultura",
+          "chapter_title": "Métodos de Lipoaspiração e Aparelhagens",
+          "organization": "Ewaldo Bolivar De Souza Pinto",
+          "publisher": "Dilivros",
+          "year": 2009,
+          "volume": "1",
+          "pages": "43-89"
+        },
+        {
+          "book_title": "Atlas de Cirurgia Estética para o Residente",
+          "chapter_title": "Técnica Cirúrgica para o Tratamento do Lábio Superior Curto",
+          "organization": "Rogério Porto Da Rocha",
+          "publisher": "Revinter",
+          "year": 2005,
+          "volume": "1",
+          "pages": "88-93"
+        },
+        {
+          "book_title": "Lipoabdominoplastia",
+          "chapter_title": "Lipoaspiração Superficial na Lipoabdominoplastia",
+          "organization": "Osvaldo Saldanha",
+          "publisher": "Dilivros",
+          "year": 2004,
+          "volume": "01",
+          "pages": "43-47"
+        }
+      ],
+      "awards_info": [
+        {
+          "title": "Metodologia Experimental para Caracterização de Cânulas de Lipoaspiração",
+          "award": "Primeiro Lugar em Cirurgia Experimental na Jornada Paulista"
+        },
+        {
+          "title": "Reconstrução de Couro Cabeludo - Uma abordagem simples e moderna",
+          "award": "Trabalho premiado em primeiro lugar"
+        },
+        {
+          "title": "Reconstrução do Conduto Auditivo por Retalho Cutâneo",
+          "award": "Trabalho premiado na segunda posição"
+        }
+      ],
+      "links": {
+        "lattes": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4307449D0",
+        "instagram": "https://www.instagram.com/juarezmissel/",
+        "youtube": "https://www.youtube.com/@juarezmissel",
+        "linkedin": "https://www.linkedin.com/in/juarez-missel-41648489/"
+      }
+    },
+    "procedures": [
+      {
+        "name": "Conceitos Gerais de Cirurgias Faciais",
+        "description": "As cirurgias faciais são um desafio e ao mesmo tempo uma satisfação tanto para o paciente como para o cirurgião plástico quando chegam ao resultado final esperado. Restabelecem a autoestima e principalmente a segurança quanto à aparência que o tempo levou. O estudo pré-operatório é de extrema importância, buscando as características faciais do passado; usando as técnicas modernas, a cirurgia é executada para proporcionar um resultado compatível com a personalidade e história de cada paciente. O acompanhamento próximo auxilia na rápida recuperação e também no conforto no período de pós-operatório.",
+        "type": "Conceito",
+        "details": {}
+      },
+      {
+        "name": "Lipoaspiração de Submento (Papada)",
+        "description": "A cirurgia de lipoaspiração de submento, agora virou lipoaspiração de papada! Inicialmente, anatomicamente não existe a região da 'Papada', é um nome vulgar que por incrível que pareça virou nome da técnica pelos profissionais que realizam a 'Harmonização Facial', nome que tecnicamente não existe. Ou seja, é uma especialidade genérica sem lógica científica, que aplica uma técnica para tratar uma região que também não existe. O Dr. Missel realiza o procedimento há mais de 20 anos, seguindo os conceitos de segurança e foco nos resultados de qualidade.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel realiza o procedimento há mais de duas décadas. Oferece resultados extraordinários e com taxa zero de complicações.",
+          "diferenciais_doutor": "O Dr. Missel possui palestras sobre lipoaspiração cervical apresentadas em congressos da Sociedade Brasileira de Cirurgia Plástica."
+        }
+      },
+      {
+        "name": "Otoplastia (Orelhas em Abano)",
+        "description": "A otoplastia, ou cirurgia para orelhas em abano, é a cirurgia indicada para correção das diferentes anormalidades das orelhas. Usualmente refazem-se as curvaturas inexistentes ou diminuídas, retiram-se excesso de cartilagens e pele, fixam-se as orelhas nos ossos do crânio. Não é uma técnica estática, literalmente cada cirurgia é única, pois todas as orelhas têm alterações distintas. A cartilagem é muito sensível a infecções de difícil controle e que acabam deformando definitivamente as orelhas. Por esse motivo, deve-se ter muito cuidado com o ambiente onde é realizada, com os materiais empregados e também no pós-operatório. A segurança e o conforto do paciente também são de extrema importância, assim todas as cirurgias são acompanhadas por um anestesiologista.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O Dr. possui grande experiência na técnica, tendo operado centenas de pessoas, com alto grau de satisfação e complicações nulas."
+        }
+      },
+      {
+        "name": "Lipofilling Facial (Enxerto de Gordura)",
+        "description": "Lipofilling, enxerto de face ou lipoenxertia facial são cirurgias para repor o volume perdido na face. A gordura da face é a responsável pela sustentação da pele; com o envelhecimento, ela é absorvida e a face perde a sua sustentação. Atualmente, duas condutas estão sendo realizadas de forma equivocada do ponto de vista do Dr. Missel. A primeira é a lipoaspiração do submento, vulgarmente ou erroneamente chamado de papada, de forma indiscriminada com o descarte da gordura. Outro é o uso de ácido hialurônico em grandes volumes fora do posicionamento correto, resultando em aspecto facial distorcido. Em uma cirurgia com uso de gordura com objetivo de reconstruir a anatomia original, usa-se entre 25ml e 40ml de tecido, porém aplicado na posição correta, com a técnica adequada de coleta, processamento e aplicação; o resultado é a volta à estrutura original do rosto jovem.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "Desde 2005, o Dr. Missel vem evoluindo a técnica de lipoenxertia, sempre defendeu o fato da técnica ser muito superior aos outros métodos de preenchimento, pois, além de células de gordura, leva para a região receptora fibras de colágeno, fatores de crescimento e células tronco."
+        }
+      },
+      {
+        "name": "Blefaroplastia (Cirurgia das Pálpebras)",
+        "description": "A blefaroplastia é a cirurgia das pálpebras, vista como um procedimento único, que em poucas horas transforma a aparência do paciente. Tem sido popularizada como algo simples, mas não é. O procedimento pode abordar diferentes estruturas, não só a pele. As pálpebras contam, além da pele, com musculatura, bolsas de gordura e ligamentos. Conforme cada caso, as diferentes estruturas são abordadas e tratadas com o objetivo de trazer a anatomia para os padrões normais. É uma cirurgia maravilhosa quando bem indicada e realizada.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel possui uma visão especial em relação à cirurgia. Realizou Fellow junto ao principal centro de cirurgia craniofacial do Brasil, onde evoluiu a técnica para procedimentos de maior complexidade."
+        }
+      },
+      {
+        "name": "Ritidoplastia (Cirurgia de Face)",
+        "description": "A ritidoplastia, cirurgia de face, é um procedimento de alta complexidade pelas áreas de risco. O procedimento deve ser realizado de forma extremamente customizada conforme as necessidades de cada paciente. A cirurgia atua sobre pele, gordura e estruturas profundas conforme a necessidade individual. O procedimento deve oferecer resultados naturais e, ao mesmo tempo, alta segurança e rápida recuperação.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel acompanhou e operou junto dos principais nomes do cenário internacional.",
+          "diferenciais_doutor": "O Dr. Missel possui palestras sobre lipoaspiração cervical apresentadas em congressos da Sociedade Brasileira de Cirurgia Plástica."
+        }
+      },
+      {
+        "name": "Rinoplastia",
+        "description": "A rinoplastia tem como objetivo corrigir anormalidades anatômicas com reflexo estético no nariz. Por ser uma cirurgia de detalhes e de grande conteúdo subjetivo emocional, o Dr. Juarez realiza esse procedimento apenas para pacientes que já realizaram outras cirurgias com ele.",
+        "type": "Cirurgia",
+        "details": {
+          "restricao_importante": "Realiza esse procedimento apenas para pacientes que já realizaram outras cirurgias com ele.",
+          "diferenciais_clinico": "O Dr. Missel trabalhou durante 03 anos junto do Dr. Ewaldo Bolivar de Souza Pinto, criador da técnica de rinoplastia dinâmica. Cirurgia conservadora com resultados superiores.",
+          "diferenciais_doutor": "O Dr. Missel possui palestras sobre rinoplastia apresentadas em congressos da Sociedade Brasileira de Cirurgia Plástica.",
+          "diferenciais_capitulos": "O Dr. Missel escreveu um capítulo sobre a 'Técnica Cirúrgica para o Tratamento do Lábio Superior Curto'. In: Rogério Porto Da Rocha. (Org.). Atlas de Cirurgia Estética para o Residente. Revinter, 2005, v. 1, p. 88-93."
+        }
+      },
+      {
+        "name": "Conceitos Gerais de Cirurgias de Mama",
+        "description": "Não importa a cirurgia que vai ser feita em uma mama, para o Dr. Missel o ponto principal é reproduzir os padrões anatômicos de uma mama naturalmente bem formada. Existem medidas padrão, dentro dos limites da normalidade como diâmetro das aréolas, altura do sulco até a aréola, volume entre outros. Seja em uma mama pequena, uma mama com queda ou uma mama gigante, todas elas devem estar dentro dos limites da normalidade após a cirurgia estar concluída. Com o passar dos anos utilizando os conceitos de aplicar os padrões anatômicos nas suas cirurgias de mama, o Dr. Missel foi desenvolvendo uma forma particular, sua, de realizar as cirurgias mamárias; hoje aplica em todas as cirurgias de mama uma técnica própria, única.",
+        "type": "Conceito",
+        "details": {}
+      },
+      {
+        "name": "Mamoplastia de Aumento (Prótese de Silicone)",
+        "description": "Mamoplastia de aumento, silicone ou prótese de mama é a cirurgia para aumentar o volume de uma mama bem formada através do uso de implantes de silicone. Aquelas pacientes que contam com alguma malformação como quedas leves, aréolas mal posicionadas ou ainda assimetrias de sulcos é possível associar algumas táticas para melhorar as alterações além de corrigir a falta de volume. O objetivo principal ao realizar uma mamoplastia de aumento é obter uma mama natural com resultados duradouros. É importante saber que uma mama malformada não é tratada apenas com a inclusão de um implante de silicone, será corrigido somente o volume.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel possui grande casuística em cirurgias de implantes de mama, possui alto índice de satisfação, taxa zero de retoques ou perda de implantes.",
+          "diferenciais_doutor": "O Dr. Missel possui palestras sobre implantes mamários apresentadas em congressos da Sociedade Brasileira de Cirurgia Plástica."
+        }
+      },
+      {
+        "name": "Mastopexia (Correção da Queda da Mama)",
+        "description": "A mastopexia é a cirurgia para correção da queda ou ptose das mamas. Nos casos onde a queda mamária é mais acentuada, as aréolas estão mal posicionadas ou ainda a mama tem o formato inadequado, a retirada de pele é inevitável. Para esses casos utiliza-se uma técnica com cicatrizes reduzidas, desenvolvida para que elas fiquem posicionadas apenas nas aréolas e em posição vertical, deixando cicatrizes horizontais apenas para grandes ressecções. A técnica é empregada de forma isolada ou com o uso de implantes. O procedimento, além das cicatrizes reduzidas, oferece longa durabilidade dos resultados.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O Dr. possui uma técnica própria de mastopexia desenvolvida ao longo de décadas. É atualmente uma das principais cirurgias realizadas pelo Dr. Missel, consequência dos resultados duradouros e cicatrizes pequenas."
+        }
+      },
+      {
+        "name": "Mamoplastia Redutora (Redução de Mama)",
+        "description": "A mamoplastia redutora, redução de mama ou tratamento de gigantomastia tem como objetivo diminuir as mamas, as técnicas variam muito. Foram criadas diferentes estratégias cirúrgicas para corrigir os principais pontos negativos das cirurgias convencionais, como as extensas cicatrizes, resultados com durabilidade limitada e principalmente os casos de complicações como necroses. O tratamento é programado conforme as características de cada mama, adaptando a técnica conforme cada caso. A execução é realizada de forma minuciosa, com uso de materiais de alta qualidade. No pós-operatório, o acompanhamento é ainda mais próximo, seja pela equipe de fisioterapia e também pessoalmente pelo Dr. Missel.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "A cirurgia para reduzir mamas grandes é um grande desafio, principalmente pelo risco de complicações. Com o passar dos anos e com o desenvolvimento da técnica, chegou a um nível de excelência, oferecendo resultados superiores e baixo índice de complicações."
+        }
+      },
+      {
+        "name": "Explante Mamário (Retirada de Implantes)",
+        "description": "O explante mamário, eventualmente a retirada dos implantes de mama, é uma opção cirúrgica. Existem dois perfis de pacientes que têm a cirurgia indicada. O primeiro é das pacientes com mais idade que não desejam mais manter o volume mamário que possuem com os implantes; nesses casos, usualmente é realizada a retirada dos implantes associada com a retirada de pele, ou mastopexia. Existe ainda um segundo grupo que deseja a remoção dos implantes em fases mais jovens da vida; nesses casos, caso a qualidade da pele seja boa, pode ser realizada a retirada isolada, em casos que exista um excesso de pele, é realizada a retirada através de uma mastopexia.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O explante mamário é visto como um procedimento que necessita muita atenção e, principalmente, proximidade com o paciente para proporcionar um resultado final que atenda às expectativas de cada paciente."
+        }
+      },
+      {
+        "name": "Ginecomastia (Cirurgia Mamária Masculina)",
+        "description": "A ginecomastia é a cirurgia para a retirada de tecidos mamários em homens. Usualmente é removido o tecido glandular e a gordura localizada na região. É uma cirurgia que traz muito ganho de bem-estar para o público masculino.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "A cirurgia para correção da ginecomastia busca, além de remover o tecido em excesso, proporcionar definição da região peitoral, oferecendo uma maior satisfação aos pacientes."
+        }
+      },
+      {
+        "name": "Conceitos Gerais de Cirurgias Corporais",
+        "description": "A história na cirurgia plástica do Dr. Missel possui uma grande ligação com as cirurgias de contorno corporal, fez a sua formação junto dos principais nomes da área no cenário mundial. Seguiu evoluindo as técnicas e a personalização dos tratamentos, oferecendo um grande diferencial aos seus pacientes, tratamentos únicos planejados e realizados especialmente para cada paciente. Toda a sua história e a evolução contínua levaram a um grande diferencial, taxa próxima de zero de complicações e retoques. Junto da sua equipe, associando conhecimentos acumulados e novas tecnologias, foca-se fortemente na humanização e na experiência do paciente pensada nos mínimos detalhes. Conheça os detalhes das principais cirurgias do contorno corporal, mas sempre lembre que cada tratamento é único, assim como será o seu.",
+        "type": "Conceito",
+        "details": {}
+      },
+      {
+        "name": "Lipoaspiração / Lipoescultura / Lipo HD",
+        "description": "A lipoaspiração ou lipoescultura é uma das cirurgias mais realizadas em todo o mundo pelo seu poder de transformar a vida das pessoas. O Dr. Missel teve o prazer de realizar a residência em cirurgia plástica com um dos principais nomes, se não o principal, no desenvolvimento da técnica. O Dr. Ewaldo Bolivar de Souza Pinto mudou paradigmas ao evoluir a técnica através da lipoaspiração superficial, a qual proporciona maior regularidade e retração cutânea. Também foi pioneiro no uso de tecnologias como laser na lipoaspiração.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "Atualmente, a lipoaspiração é a cirurgia que é mais realizada pelo Dr. Missel. Uma consequência do uso de uma técnica refinada e cuidados personalizados, proporcionando resultados superiores com rápida recuperação e extrema segurança.",
+          "diferenciais_doutor": "O Dr. Missel possui 07 palestras sobre lipoaspiração apresentadas em congressos da Sociedade Brasileira de Cirurgia Plástica.",
+          "diferenciais_artigos": "Escreveu os seguintes artigos: 'Laser Lipólise com Diodo Laser 980-nm: experiência de 400 casos', artigo publicado na revista da Sociedade Brasileira de Cirurgia Plástica; 'Estudo Histológico da Derme Humana de Interesse para a Lipoaspiração', artigo publicado na revista da Sociedade Brasileira de Cirurgia Plástica; e 'Metodologia Experimental para Teste de Cânulas de Lipoaspiração', primeiro lugar em cirurgia experimental na XXIV Jornada Paulista de Cirurgia Plástica.",
+          "diferenciais_capitulos": "O Dr. Missel escreveu o capítulo que aborda os 'Métodos de Lipoaspiração e Aparelhagens'. In: Ewaldo Bolivar De Souza Pinto. (Org.). Lipomioescultura. Dilivros, 2009, v. 1, p. 43-89.",
+          "diferenciais_premios": "O Dr. Missel recebeu o prêmio em primeiro lugar em Cirurgia Experimental na Jornada Paulista com o trabalho: 'Metodologia Experimental para Caracterização de Cânulas de Lipoaspiração'."
+        }
+      },
+      {
+        "name": "Mini Abdominoplastia / Mini Lipoabdominoplastia",
+        "description": "A mini lipoabdominoplastia associa a lipoaspiração do abdômen com a retirada de pele que se evidencia pela queda da região pubiana. Geralmente é realizada nas pacientes que passaram por uma gestação que não deixou tantas sequelas estruturais que obrigariam realizar uma lipoabdominoplastia, uma cirurgia maior e mais complexa. Para realizar o procedimento, a paciente precisa apresentar uma parede abdominal com bom tônus muscular e a ausência de grandes diástases dos retos abdominais, também precisa ter uma pele de boa qualidade e sem excesso acima do umbigo. Além dos resultados extremamente naturais, tem como vantagens os fatos de ser menos agressiva e proporcionar um período de recuperação muito menor.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "A mini lipoabdominoplastia é um dos diferenciais do Dr. Missel, evoluiu a técnica oferecendo resultados extremamente naturais e com longa durabilidade."
+        }
+      },
+      {
+        "name": "Lipoabdominoplastia",
+        "description": "A lipoabdominoplastia foi uma das principais revoluções da cirurgia plástica. Saímos de uma cirurgia com resultados limitados, altas taxas de complicações como hematomas, seromas e necroses, uso prolongado de drenos e recuperação demorada para um procedimento com resultados superiores, complicações praticamente nulas e recuperação suave. O procedimento foi desenvolvido pelo Dr. Osvaldo Saldanha no início dos anos 2000, exatamente no período que o Dr. Missel realizava a sua residência no serviço que era coordenado por ele. Participou de toda evolução e refinamento da técnica, também participou do livro que lançou a técnica para o universo da cirurgia plástica. Uma história que tem satisfação de ter participado e, principalmente, como consequência, poder oferecer a excelência para as suas pacientes.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel participou da criação da técnica original da lipoabdominoplastia, segue evoluindo e oferecendo uma cirurgia de nível internacional.",
+          "diferenciais_capitulos": "O Dr. Missel escreveu o capítulo do livro onde é descrito a 'Lipoaspiração Superficial na Lipoabdominoplastia'. In: Osvaldo Saldanha. (Org.). Lipoabdominoplastia. Dilivros, 2004, v. 01, p. 43-47."
+        }
+      },
+      {
+        "name": "Lipoabdominoplastia Pós-Bariátrica",
+        "description": "A lipoabdominoplastia após bariátrica possui umas particularidades importantes. A cirurgia bariátrica tem um grande impacto positivo na melhora da saúde das pessoas obesas, porém muitas delas acreditam que a perda de peso será acompanhada pela melhora estética, uma verdade relativa. O emagrecimento invariavelmente acarreta níveis variáveis de excesso de pele, o qual para ser corrigido na maioria das vezes necessita extensas cirurgias com grandes ressecções de pele. O paciente que passou por grandes perdas de peso muitas vezes apresenta também alterações na cicatrização e na qualidade da pele, as quais acarretam um progressivo aumento no excesso de pele mesmo depois de ter realizado a cirurgia plástica. Qualquer procedimento após uma cirurgia bariátrica deve ser muito bem discutido entre o profissional e o paciente, alinhando as possibilidades de resultados e limitações, assim chegando a um resultado final realista.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel usa a técnica de lipoabdominoplastia original personalizada para pacientes pós-bariátricos. Tem como diferencial os resultados superiores e baixo índice de complicações."
+        }
+      },
+      {
+        "name": "Contorno Glúteo (Enxerto de Gordura)",
+        "description": "A cirurgia de contorno glúteo trata a região glútea de forma global, associa a lipoaspiração de definição da região dorsal, lombar e sacral ao enxerto de gordura processada na região glútea. O tratamento tem como objetivo aumentar o volume e também tratar eventuais quedas da região dos glúteos. Ainda durante o mesmo procedimento, pode-se associar o tratamento de retrações e fibroses que ficam visíveis como celulite. O tratamento detalhado de toda a região proporciona mudanças radicais em um tratamento cirúrgico rápido e com grande segurança.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel segue os conceitos criados pelo Dr. Ewaldo Bolivar na cirurgia de contorno glúteo. Atua há mais de duas décadas aplicando a técnica com resultados sensacionais."
+        }
+      },
+      {
+        "name": "Mini Lipoaspiração",
+        "description": "A mini lipoaspiração é o tratamento ideal para as pacientes que, se emagrecerem, acabam ficando muito magras, e a gordura continua lá. Muitas delas procuram tratamentos alternativos como injeções, massagens ou ainda equipamentos, mas a história sempre é a mesma: além da perda de tempo e dinheiro, os resultados são praticamente nulos. A mini lipoaspiração é um procedimento de rápida execução e resultados transformadores; normalmente, após terem realizado a cirurgia, as pacientes verbalizam que deveriam ter feito muito tempo antes, teriam economizado dinheiro, tempo e, principalmente, teriam o resultado que desejavam.",
+        "type": "Cirurgia",
+        "details": {
+          "diferenciais_clinico": "A cirurgia de mini lipoaspiração vem aumentando a procura, principalmente agora que as pacientes compreenderam a baixa eficácia de tratamentos não cirúrgicos."
+        }
+      },
+      {
+        "name": "Cirurgias Reparadoras (Geral)",
+        "description": "O Dr. Juarez tem grande experiência em cirurgias reparadoras, inclusive foi o responsável pela maior emergência do interior do Rio Grande do Sul por aproximadamente 5 anos.",
+        "type": "Cirurgia Reparadora",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel vê o paciente como um todo, buscando o melhor resultado com o máximo de personalização em todos os tratamentos.",
+          "diferenciais_premios": "O Dr. Missel possui dois trabalhos premiados, um sobre reconstrução de couro cabeludo e outro sobre reconstrução de conduto auditivo."
+        }
+      },
+      {
+        "name": "Tratamento de Queimados",
+        "description": "O Dr. Missel fez a sua formação complementar em um dos principais centros do mundo, seguiu a sua trajetória atuando durante cinco anos como responsável pelo atendimento de queimados do maior hospital do interior do Rio Grande do Sul.",
+        "type": "Cirurgia Reparadora",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel realizou a sua formação no tratamento de pacientes queimados na Fundação Hospitalar do Estado de Minas Gerais, FHEMIG."
+        }
+      },
+      {
+        "name": "Fissuras Labiopalatais",
+        "description": "O Dr. Missel realizou a sua formação no principal centro de tratamento de crianças com fissuras labiopalatais do Brasil. Segue atuando em parceria com as principais instituições do Brasil.",
+        "type": "Cirurgia Reparadora",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel realizou a sua formação complementar em fissuras labiopalatais no Centrinho – USP de Bauru, São Paulo."
+        }
+      },
+      {
+        "name": "Cirurgia Craniofacial",
+        "description": "O Dr. Missel realizou a sua formação em cirurgias craniofaciais em um dos principais centros do Brasil. Atua usando os conhecimentos técnicos em todas as suas cirurgias de face.",
+        "type": "Cirurgia Reparadora/Estética",
+        "details": {
+          "diferenciais_clinico": "O Dr. Missel realizou a sua formação complementar em cirurgia craniofacial no Núcleo de Plástica Avançada da Real Beneficência Portuguesa de São Paulo."
+        }
+      },
+      {
+        "name": "Reconstrução de Mama Pós-Câncer",
+        "description": "A reconstrução de mamas é um tratamento de diferentes graus de complexidade, variando conforme a necessidade oncológica. As diferentes opções cirúrgicas e técnicas serão abordadas diretamente na consulta.",
+        "type": "Cirurgia Reparadora",
+        "details": {
+          "diferenciais_clinico": "O Dr. fez a sua formação complementar em reconstrução mamária no Instituto Brasileiro de Controle do Câncer, IBCC de São Paulo. Além disso, vem atuando na área há mais de 20 anos."
+        }
+      },
+      {
+        "name": "Toxina Botulínica (Botox)",
+        "description": "Realiza aplicação de toxina botulínica com o diferencial de 20 anos de experiência na aplicação, uso de produtos originais comprados diretamente da Allergan. Realiza a aplicação apenas para aquelas pessoas que já são pacientes dele.",
+        "type": "Procedimento Estético",
+        "details": {
+          "restricao_importante": "Realiza a aplicação apenas para pessoas que já são pacientes dele."
+        }
+      },
+      {
+        "name": "Preenchimentos",
+        "description": "Realiza preenchimentos apenas para quem já é paciente dele.",
+        "type": "Procedimento Estético",
+        "details": {
+          "restricao_importante": "Realiza apenas para quem já é paciente dele."
+        }
+      },
+      {
+        "name": "Bioestimuladores",
+        "description": "Realiza aplicação de bioestimuladores apenas para quem já é paciente dele.",
+        "type": "Procedimento Estético",
+        "details": {
+          "restricao_importante": "Realiza apenas para quem já é paciente dele."
+        }
+      },
+      {
+        "name": "Pequenas Cirurgias",
+        "description": "Realiza pequenas cirurgias apenas para quem já é paciente dele.",
+        "type": "Cirurgia",
+        "details": {
+          "restricao_importante": "Realiza apenas para quem já é paciente dele."
+        }
+      }
+    ],
+    "accepted_insurance": [
+      "Atendimento somente particular"
+    ],
+    "payment_methods": [
+      "Dinheiro",
+      "PIX"
+    ],
+    "consultation_info": {
+      "value": "R$ 550,00",
+      "duration_estimate": "45 minutos",
+      "arrival_recommendation": "Chegar 15 minutos antes do horário agendado.",
+      "wait_time_estimate": "O foco do atendimento do Dr. Missel não é a quantidade, mas a qualidade. A maior parte dos pacientes são indicados. Temos compromisso com a agilidade no agendamento com prazo máximo de uma semana de espera.",
+      "what_to_bring": "Lembre de levar todos os medicamentos que está tomando, últimos exames e encaminhamentos, caso existam."
+    },
+    "surgery_info": {
+      "wait_time_estimate": "O tempo de espera para uma cirurgia é variável, podendo variar muito conforme a época do ano. Temos uma equipe completa de relacionamento que te auxilia para conseguir agendar a cirurgia com agilidade."
+    },
+    "scheduling_policy": {
+      "how_to_schedule": "O agendamento pode ser feito diretamente comigo por aqui (WhatsApp) ou pelos telefones 54 996837475 / 54 33272748. As consultas ocorrem preferencialmente nas segundas e terças à tarde, mas outros horários podem ser verificados.",
+      "cancellation_policy": "Caso precise reagendar ou cancelar sua consulta, solicitamos um aviso prévio de 24h para melhor organização da agenda. Na véspera da consulta a nossa equipe de relacionamento entrará em contato com você.",
+      "registration_questions_needed": [
+        "Qual o seu nome completo?",
+        "Qual o seu número de telefone para contato (com DDD)?",
+        "Qual o seu e-mail?",
+        "Você foi indicada(o) por alguém? Se sim, por quem?",
+        "Qual procedimento ou área você tem interesse em discutir na consulta?"
+      ]
+    },
+    "faq": [
+        {
+            "question": "Qual o valor da consulta?",
+            "answer": "O valor da consulta de avaliação com o Dr. Juarez Missel é R$ 550,00."
+        },
+        {
+            "question": "Quais convênios o Dr. Juarez aceita?",
+            "answer": "O Dr. Missel atende somente consultas e procedimentos particulares, não aceitando convênios."
+        },
+        {
+            "question": "Quais as formas de pagamento da consulta?",
+            "answer": "O pagamento da consulta pode ser feito em dinheiro ou via PIX."
+        },
+        {
+            "question": "Onde o Dr. Juarez realiza as cirurgias?",
+            "answer": "As cirurgias são realizadas na estrutura segura e completa do Hospital de Clínicas de Passo Fundo."
+        },
+        {
+            "question": "Qual o endereço da clínica?",
+            "answer": "A Clínica Missel fica na Rua Coronel Gabriel Bastos, 371, na Vila Vergueiro, em Passo Fundo/RS, CEP 99010-200. O ponto de referência é atrás da sede Vergueiro do Clube Comercial."
+        },
+        {
+             "question": "Quais os dias e horários de funcionamento da clínica?",
+             "answer": "A clínica funciona de segunda a sexta-feira, das 8h às 12h e das 14h às 18h."
+        },
+        {
+             "question": "Quais os dias e horários disponíveis para consulta com o Dr. Juarez?",
+             "answer": "As consultas com o Dr. Juarez ocorrem preferencialmente nas segundas e terças-feiras à tarde. Posso verificar a disponibilidade de horários exatos para você nesses dias. Eventualmente, outros horários podem ser agendados conforme a agenda e liberação da nossa equipe de relacionamento."
+        },
+        {
+            "question": "Qual o tempo de espera para conseguir uma consulta?",
+            "answer": "Nosso foco é a qualidade e agilidade no atendimento. O tempo de espera para agendar uma consulta é de no máximo uma semana."
+        },
+         {
+             "question": "Qual o tempo de espera para agendar uma cirurgia?",
+             "answer": "O tempo de espera para uma cirurgia pode variar bastante dependendo da época do ano e da agenda. Nossa equipe de relacionamento está preparada para auxiliar você a encontrar a data mais adequada com agilidade."
+         }
+    ]
+  }
